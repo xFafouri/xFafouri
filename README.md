@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamzafafouri" target="blank"><img src="https://img.shields.io/twitter/follow/hamzafafouri?logo=twitter&style=for-the-badge" alt="hamzafafouri" /></a> </p>
 
-- 🔭 I’m currently working on **Push_swap**
+- 🔭 I’m currently working on **CUB3D**
 
 - 🌱 I’m currently learning **C**
 
