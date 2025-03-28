@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hamzafafouri" target="blank"><img src="https://img.shields.io/twitter/follow/hamzafafouri?logo=twitter&style=for-the-badge" alt="hamzafafouri" /></a> </p>
 
-- 🔭 I’m currently working on **CUB3D**
+- 🔭 I’m currently working on **CPP MODULES**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xFafouri/1337_hamza](https://github.com/xFafouri/1337_hamza)
 
